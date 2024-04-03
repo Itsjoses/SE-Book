@@ -14,7 +14,7 @@ Fig 1. Home Page without Backend
 
 Fig 2. Home Page with Backend
 
-CLI to up front & back
+CLI to up front & back \n
 front -> npm run dev / npm run build 
 back -> go run main.go
 
