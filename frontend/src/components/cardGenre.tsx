@@ -1,5 +1,4 @@
 import { IconType } from "react-icons";
-import { BiGame } from "react-icons/bi";
 
 interface Genre{
   icon: IconType,

@@ -1,7 +1,5 @@
-import React from "react";
 import DynamicLayout from "./dynamicLayout";
 import { Link } from "react-router-dom";
-import { IoSearch } from "react-icons/io5";
 
 export default function Navbar() {
   return (

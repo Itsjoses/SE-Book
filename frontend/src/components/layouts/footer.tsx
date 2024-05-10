@@ -1,4 +1,3 @@
-import React from "react";
 import DynamicLayout from "./dynamicLayout";
 import { FaYoutube } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
